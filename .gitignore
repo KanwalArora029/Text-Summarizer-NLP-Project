@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+artifacts/
 research/pegasus-samsum-model/
 build/
 develop-eggs/
