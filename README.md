@@ -19,7 +19,7 @@ End to end Text-Summarizer
 Clone the repository
 
 ```bash
-https://github.com/KanwalArora029/TextSummarizer.git
+https://github.com/KanwalArora029/Text-Summarizer-NLP-Project.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
